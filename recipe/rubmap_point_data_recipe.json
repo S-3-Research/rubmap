@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "layers": {
+    "rubmap_point_data": {
+      "source": "mapbox://tileset-source/marcocai/rubmap_point_data",
+      "minzoom": 0,
+      "maxzoom": 5
+    }
+  }
+}
