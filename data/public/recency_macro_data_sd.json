@@ -2,26 +2,41 @@
   "1_month": {
     "num_reviews": 386,
     "num_providers": 193,
-    "num_facilities": 76
+    "num_facilities": 76,
+    "num_reviews_exclude_non_erotic": 386,
+    "num_providers_exclude_non_erotic": 193,
+    "num_facilities_exclude_non_erotic": 76
   },
   "3_month": {
     "num_reviews": 1117,
     "num_providers": 439,
-    "num_facilities": 118
+    "num_facilities": 118,
+    "num_reviews_exclude_non_erotic": 1112,
+    "num_providers_exclude_non_erotic": 435,
+    "num_facilities_exclude_non_erotic": 115
   },
   "6_month": {
     "num_reviews": 2142,
     "num_providers": 746,
-    "num_facilities": 130
+    "num_facilities": 130,
+    "num_reviews_exclude_non_erotic": 2134,
+    "num_providers_exclude_non_erotic": 740,
+    "num_facilities_exclude_non_erotic": 127
   },
   "1_year": {
     "num_reviews": 4130,
     "num_providers": 1248,
-    "num_facilities": 149
+    "num_facilities": 149,
+    "num_reviews_exclude_non_erotic": 4105,
+    "num_providers_exclude_non_erotic": 1227,
+    "num_facilities_exclude_non_erotic": 137
   },
   "all_time": {
     "num_reviews": 20076,
     "num_providers": 5758,
-    "num_facilities": 350
+    "num_facilities": 446,
+    "num_reviews_exclude_non_erotic": 19259,
+    "num_providers_exclude_non_erotic": 5380,
+    "num_facilities_exclude_non_erotic": 376
   }
 }
