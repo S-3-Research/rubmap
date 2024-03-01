@@ -1,0 +1,2741 @@
+[
+  {
+    "1_month": false,
+    "1_month_18-24": false,
+    "1_month_18-24_number_providers": 0,
+    "1_month_18-24_number_reviews": 0,
+    "1_month_25-30": false,
+    "1_month_25-30_number_providers": 0,
+    "1_month_25-30_number_reviews": 0,
+    "1_month_31-35": false,
+    "1_month_31-35_number_providers": 0,
+    "1_month_31-35_number_reviews": 0,
+    "1_month_36-40": false,
+    "1_month_36-40_number_providers": 0,
+    "1_month_36-40_number_reviews": 0,
+    "1_month_41-45": false,
+    "1_month_41-45_number_providers": 0,
+    "1_month_41-45_number_reviews": 0,
+    "1_month_46-50": false,
+    "1_month_46-50_number_providers": 0,
+    "1_month_46-50_number_reviews": 0,
+    "1_month_51+": false,
+    "1_month_51+_number_providers": 0,
+    "1_month_51+_number_reviews": 0,
+    "1_month_?": false,
+    "1_month_?_number_providers": 0,
+    "1_month_?_number_reviews": 0,
+    "1_month_number_providers": 0,
+    "1_month_number_reviews": 0,
+    "1_year": true,
+    "1_year_18-24": true,
+    "1_year_18-24_number_providers": 27,
+    "1_year_18-24_number_reviews": 67,
+    "1_year_25-30": true,
+    "1_year_25-30_number_providers": 98,
+    "1_year_25-30_number_reviews": 361,
+    "1_year_31-35": true,
+    "1_year_31-35_number_providers": 33,
+    "1_year_31-35_number_reviews": 73,
+    "1_year_36-40": true,
+    "1_year_36-40_number_providers": 21,
+    "1_year_36-40_number_reviews": 25,
+    "1_year_41-45": false,
+    "1_year_41-45_number_providers": 0,
+    "1_year_41-45_number_reviews": 0,
+    "1_year_46-50": false,
+    "1_year_46-50_number_providers": 0,
+    "1_year_46-50_number_reviews": 0,
+    "1_year_51+": false,
+    "1_year_51+_number_providers": 0,
+    "1_year_51+_number_reviews": 0,
+    "1_year_?": true,
+    "1_year_?_number_providers": 5,
+    "1_year_?_number_reviews": 6,
+    "1_year_number_providers": 122,
+    "1_year_number_reviews": 532,
+    "30_min": "$50",
+    "3_month": true,
+    "3_month_18-24": true,
+    "3_month_18-24_number_providers": 6,
+    "3_month_18-24_number_reviews": 13,
+    "3_month_25-30": true,
+    "3_month_25-30_number_providers": 23,
+    "3_month_25-30_number_reviews": 62,
+    "3_month_31-35": true,
+    "3_month_31-35_number_providers": 10,
+    "3_month_31-35_number_reviews": 21,
+    "3_month_36-40": true,
+    "3_month_36-40_number_providers": 1,
+    "3_month_36-40_number_reviews": 1,
+    "3_month_41-45": false,
+    "3_month_41-45_number_providers": 0,
+    "3_month_41-45_number_reviews": 0,
+    "3_month_46-50": false,
+    "3_month_46-50_number_providers": 0,
+    "3_month_46-50_number_reviews": 0,
+    "3_month_51+": false,
+    "3_month_51+_number_providers": 0,
+    "3_month_51+_number_reviews": 0,
+    "3_month_?": true,
+    "3_month_?_number_providers": 2,
+    "3_month_?_number_reviews": 2,
+    "3_month_number_providers": 28,
+    "3_month_number_reviews": 99,
+    "45_min": null,
+    "60_min": "$70",
+    "6_month": true,
+    "6_month_18-24": true,
+    "6_month_18-24_number_providers": 15,
+    "6_month_18-24_number_reviews": 43,
+    "6_month_25-30": true,
+    "6_month_25-30_number_providers": 54,
+    "6_month_25-30_number_reviews": 171,
+    "6_month_31-35": true,
+    "6_month_31-35_number_providers": 19,
+    "6_month_31-35_number_reviews": 37,
+    "6_month_36-40": true,
+    "6_month_36-40_number_providers": 6,
+    "6_month_36-40_number_reviews": 6,
+    "6_month_41-45": false,
+    "6_month_41-45_number_providers": 0,
+    "6_month_41-45_number_reviews": 0,
+    "6_month_46-50": false,
+    "6_month_46-50_number_providers": 0,
+    "6_month_46-50_number_reviews": 0,
+    "6_month_51+": false,
+    "6_month_51+_number_providers": 0,
+    "6_month_51+_number_reviews": 0,
+    "6_month_?": true,
+    "6_month_?_number_providers": 3,
+    "6_month_?_number_reviews": 3,
+    "6_month_number_providers": 68,
+    "6_month_number_reviews": 260,
+    "90_min": null,
+    "address": "4550 Kearny Villa Rd Ste 108",
+    "address_2": "San Diego, CA, 92123",
+    "all_time": true,
+    "all_time_18-24": true,
+    "all_time_18-24_number_providers": 58,
+    "all_time_18-24_number_reviews": 145,
+    "all_time_25-30": true,
+    "all_time_25-30_number_providers": 165,
+    "all_time_25-30_number_reviews": 867,
+    "all_time_31-35": true,
+    "all_time_31-35_number_providers": 74,
+    "all_time_31-35_number_reviews": 215,
+    "all_time_36-40": true,
+    "all_time_36-40_number_providers": 50,
+    "all_time_36-40_number_reviews": 82,
+    "all_time_41-45": true,
+    "all_time_41-45_number_providers": 4,
+    "all_time_41-45_number_reviews": 6,
+    "all_time_46-50": false,
+    "all_time_46-50_number_providers": 0,
+    "all_time_46-50_number_reviews": 0,
+    "all_time_51+": true,
+    "all_time_51+_number_providers": 1,
+    "all_time_51+_number_reviews": 1,
+    "all_time_?": true,
+    "all_time_?_number_providers": 5,
+    "all_time_?_number_reviews": 6,
+    "all_time_number_providers": 205,
+    "all_time_number_reviews": 1322,
+    "cards_accepted:": "Cash Only",
+    "closed": 1.0,
+    "email:": null,
+    "hours": "Daily 8:00am - 11:30pm",
+    "img_link": null,
+    "jacuzzi": "No",
+    "link": "https://www.rubmaps.ch/erotic-massage-ocean-san-diego-ca-83369",
+    "loc_link": "https://maps.google.com/maps?&daddr=4550%20Kearny%20Villa%20Rd%20Ste%20108,San%20Diego&hl=en",
+    "masseuse_ethnicity:": "Chinese",
+    "min_rate": "$ 70",
+    "name": "Ocean",
+    "newest_review": "4 weeks ago",
+    "number": "858-667-1176",
+    "other_info_str": "Masseuse Ethnicity:\nChinese\nCards Accepted:\nCash Only Sauna: No\nJacuzzi: No\nSemi-Truck Parking: No\n30 min: $50\n60 min: $70",
+    "privacy_for_shower": null,
+    "race": "Chinese massage",
+    "rate_unit": "per_hour",
+    "reported_as_non_erotic": false,
+    "review": "1322 reviews",
+    "review_score": "width: 75.0864px;",
+    "review_score_calculated": 4.6929,
+    "risk_score": 9.0,
+    "sauna": "No",
+    "semi-truck_parking": "No",
+    "table_shower": null,
+    "website:": null,
+    "geocode": [
+      {
+        "address_components": [
+          {
+            "long_name": "STE 108",
+            "short_name": "STE 108",
+            "types": [
+              "subpremise"
+            ]
+          },
+          {
+            "long_name": "4550",
+            "short_name": "4550",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "Kearny Villa Road",
+            "short_name": "Kearny Villa Rd",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Kearny Mesa",
+            "short_name": "Kearny Mesa",
+            "types": [
+              "neighborhood",
+              "political"
+            ]
+          },
+          {
+            "long_name": "San Diego",
+            "short_name": "San Diego",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "San Diego County",
+            "short_name": "San Diego County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "California",
+            "short_name": "CA",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "92123",
+            "short_name": "92123",
+            "types": [
+              "postal_code"
+            ]
+          },
+          {
+            "long_name": "1585",
+            "short_name": "1585",
+            "types": [
+              "postal_code_suffix"
+            ]
+          }
+        ],
+        "formatted_address": "4550 Kearny Villa Rd STE 108, San Diego, CA 92123, USA",
+        "geometry": {
+          "location": {
+            "lat": 32.8225935,
+            "lng": -117.1448842
+          },
+          "location_type": "ROOFTOP",
+          "viewport": {
+            "northeast": {
+              "lat": 32.82393598029149,
+              "lng": -117.1433483697085
+            },
+            "southwest": {
+              "lat": 32.8212380197085,
+              "lng": -117.1460463302915
+            }
+          }
+        },
+        "place_id": "ChIJLyHppcD_24ARnT5vZCzXKZw",
+        "types": [
+          "subpremise"
+        ]
+      }
+    ],
+    "lat": 32.8225935,
+    "lng": -117.1448842
+  },
+  {
+    "1_month": true,
+    "1_month_18-24": true,
+    "1_month_18-24_number_providers": 2,
+    "1_month_18-24_number_reviews": 3,
+    "1_month_25-30": true,
+    "1_month_25-30_number_providers": 8,
+    "1_month_25-30_number_reviews": 18,
+    "1_month_31-35": true,
+    "1_month_31-35_number_providers": 4,
+    "1_month_31-35_number_reviews": 5,
+    "1_month_36-40": true,
+    "1_month_36-40_number_providers": 3,
+    "1_month_36-40_number_reviews": 3,
+    "1_month_41-45": false,
+    "1_month_41-45_number_providers": 0,
+    "1_month_41-45_number_reviews": 0,
+    "1_month_46-50": false,
+    "1_month_46-50_number_providers": 0,
+    "1_month_46-50_number_reviews": 0,
+    "1_month_51+": false,
+    "1_month_51+_number_providers": 0,
+    "1_month_51+_number_reviews": 0,
+    "1_month_?": false,
+    "1_month_?_number_providers": 0,
+    "1_month_?_number_reviews": 0,
+    "1_month_number_providers": 10,
+    "1_month_number_reviews": 29,
+    "1_year": true,
+    "1_year_18-24": true,
+    "1_year_18-24_number_providers": 14,
+    "1_year_18-24_number_reviews": 35,
+    "1_year_25-30": true,
+    "1_year_25-30_number_providers": 34,
+    "1_year_25-30_number_reviews": 129,
+    "1_year_31-35": true,
+    "1_year_31-35_number_providers": 14,
+    "1_year_31-35_number_reviews": 22,
+    "1_year_36-40": true,
+    "1_year_36-40_number_providers": 10,
+    "1_year_36-40_number_reviews": 13,
+    "1_year_41-45": false,
+    "1_year_41-45_number_providers": 0,
+    "1_year_41-45_number_reviews": 0,
+    "1_year_46-50": false,
+    "1_year_46-50_number_providers": 0,
+    "1_year_46-50_number_reviews": 0,
+    "1_year_51+": false,
+    "1_year_51+_number_providers": 0,
+    "1_year_51+_number_reviews": 0,
+    "1_year_?": false,
+    "1_year_?_number_providers": 0,
+    "1_year_?_number_reviews": 0,
+    "1_year_number_providers": 47,
+    "1_year_number_reviews": 199,
+    "30_min": "$50",
+    "3_month": true,
+    "3_month_18-24": true,
+    "3_month_18-24_number_providers": 10,
+    "3_month_18-24_number_reviews": 21,
+    "3_month_25-30": true,
+    "3_month_25-30_number_providers": 24,
+    "3_month_25-30_number_reviews": 66,
+    "3_month_31-35": true,
+    "3_month_31-35_number_providers": 8,
+    "3_month_31-35_number_reviews": 13,
+    "3_month_36-40": true,
+    "3_month_36-40_number_providers": 8,
+    "3_month_36-40_number_reviews": 10,
+    "3_month_41-45": false,
+    "3_month_41-45_number_providers": 0,
+    "3_month_41-45_number_reviews": 0,
+    "3_month_46-50": false,
+    "3_month_46-50_number_providers": 0,
+    "3_month_46-50_number_reviews": 0,
+    "3_month_51+": false,
+    "3_month_51+_number_providers": 0,
+    "3_month_51+_number_reviews": 0,
+    "3_month_?": false,
+    "3_month_?_number_providers": 0,
+    "3_month_?_number_reviews": 0,
+    "3_month_number_providers": 32,
+    "3_month_number_reviews": 110,
+    "45_min": "$60",
+    "60_min": "$70",
+    "6_month": true,
+    "6_month_18-24": true,
+    "6_month_18-24_number_providers": 13,
+    "6_month_18-24_number_reviews": 30,
+    "6_month_25-30": true,
+    "6_month_25-30_number_providers": 34,
+    "6_month_25-30_number_reviews": 129,
+    "6_month_31-35": true,
+    "6_month_31-35_number_providers": 13,
+    "6_month_31-35_number_reviews": 21,
+    "6_month_36-40": true,
+    "6_month_36-40_number_providers": 10,
+    "6_month_36-40_number_reviews": 13,
+    "6_month_41-45": false,
+    "6_month_41-45_number_providers": 0,
+    "6_month_41-45_number_reviews": 0,
+    "6_month_46-50": false,
+    "6_month_46-50_number_providers": 0,
+    "6_month_46-50_number_reviews": 0,
+    "6_month_51+": false,
+    "6_month_51+_number_providers": 0,
+    "6_month_51+_number_reviews": 0,
+    "6_month_?": false,
+    "6_month_?_number_providers": 0,
+    "6_month_?_number_reviews": 0,
+    "6_month_number_providers": 46,
+    "6_month_number_reviews": 193,
+    "90_min": null,
+    "address": "3960 4th Ave #A",
+    "address_2": "San Diego, CA, 92103",
+    "all_time": true,
+    "all_time_18-24": true,
+    "all_time_18-24_number_providers": 14,
+    "all_time_18-24_number_reviews": 36,
+    "all_time_25-30": true,
+    "all_time_25-30_number_providers": 35,
+    "all_time_25-30_number_reviews": 131,
+    "all_time_31-35": true,
+    "all_time_31-35_number_providers": 22,
+    "all_time_31-35_number_reviews": 32,
+    "all_time_36-40": true,
+    "all_time_36-40_number_providers": 18,
+    "all_time_36-40_number_reviews": 30,
+    "all_time_41-45": true,
+    "all_time_41-45_number_providers": 2,
+    "all_time_41-45_number_reviews": 3,
+    "all_time_46-50": false,
+    "all_time_46-50_number_providers": 0,
+    "all_time_46-50_number_reviews": 0,
+    "all_time_51+": false,
+    "all_time_51+_number_providers": 0,
+    "all_time_51+_number_reviews": 0,
+    "all_time_?": false,
+    "all_time_?_number_providers": 0,
+    "all_time_?_number_reviews": 0,
+    "all_time_number_providers": 59,
+    "all_time_number_reviews": 232,
+    "cards_accepted:": "Visa, Mastercard, Cash Only",
+    "closed": null,
+    "email:": null,
+    "hours": "Daily 8:00am - 11:30pm",
+    "img_link": "https://cdn.rubmaps.ch/uploads/locations/79790/thumb_5d37bf260fe4c.jpg",
+    "jacuzzi": "No",
+    "link": "https://www.rubmaps.ch/erotic-massage-moonsea-spa-san-diego-ca-79790",
+    "loc_link": "https://maps.google.com/maps?&daddr=3960%204th%20Ave%20#A,San%20Diego&hl=en",
+    "masseuse_ethnicity:": "Asian",
+    "min_rate": "$ 70",
+    "name": "MoonSea Spa",
+    "newest_review": "2 days ago",
+    "number": "858-308-6287",
+    "other_info_str": "Masseuse Ethnicity:\nAsian\nCards Accepted:\nVisa, Mastercard, Cash Only Table Shower: Yes\nSauna: No\nJacuzzi: No\nSemi-Truck Parking: No\n30 min: $50\n45 min: $60\n60 min: $70",
+    "privacy_for_shower": null,
+    "race": "Asian massage",
+    "rate_unit": "per_hour",
+    "reported_as_non_erotic": false,
+    "review": "231 reviews",
+    "review_score": "width: 75.152px;",
+    "review_score_calculated": 4.697,
+    "risk_score": 6.421654077086965,
+    "sauna": "No",
+    "semi-truck_parking": "No",
+    "table_shower": "Yes",
+    "website:": null,
+    "geocode": [
+      {
+        "address_components": [
+          {
+            "long_name": "a",
+            "short_name": "a",
+            "types": [
+              "subpremise"
+            ]
+          },
+          {
+            "long_name": "3960",
+            "short_name": "3960",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "Fourth Avenue",
+            "short_name": "Fourth Ave",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Hillcrest",
+            "short_name": "Hillcrest",
+            "types": [
+              "neighborhood",
+              "political"
+            ]
+          },
+          {
+            "long_name": "San Diego",
+            "short_name": "San Diego",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "San Diego County",
+            "short_name": "San Diego County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "California",
+            "short_name": "CA",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "92103",
+            "short_name": "92103",
+            "types": [
+              "postal_code"
+            ]
+          },
+          {
+            "long_name": "3110",
+            "short_name": "3110",
+            "types": [
+              "postal_code_suffix"
+            ]
+          }
+        ],
+        "formatted_address": "3960 Fourth Ave a, San Diego, CA 92103, USA",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": 32.749455,
+              "lng": -117.161734
+            },
+            "southwest": {
+              "lat": 32.7493403,
+              "lng": -117.1621583
+            }
+          },
+          "location": {
+            "lat": 32.7493795,
+            "lng": -117.1619753
+          },
+          "location_type": "ROOFTOP",
+          "viewport": {
+            "northeast": {
+              "lat": 32.7507466302915,
+              "lng": -117.1605452697085
+            },
+            "southwest": {
+              "lat": 32.7480486697085,
+              "lng": -117.1632432302915
+            }
+          }
+        },
+        "place_id": "EiszOTYwIEZvdXJ0aCBBdmUgYSwgU2FuIERpZWdvLCBDQSA5MjEwMywgVVNBIh0aGwoWChQKEglT9rSd0FTZgBGP8wc2uq6JfxIBYQ",
+        "types": [
+          "subpremise"
+        ]
+      }
+    ],
+    "lat": 32.7493795,
+    "lng": -117.1619753
+  },
+  {
+    "1_month": true,
+    "1_month_18-24": true,
+    "1_month_18-24_number_providers": 4,
+    "1_month_18-24_number_reviews": 5,
+    "1_month_25-30": true,
+    "1_month_25-30_number_providers": 10,
+    "1_month_25-30_number_reviews": 19,
+    "1_month_31-35": true,
+    "1_month_31-35_number_providers": 3,
+    "1_month_31-35_number_reviews": 5,
+    "1_month_36-40": true,
+    "1_month_36-40_number_providers": 3,
+    "1_month_36-40_number_reviews": 4,
+    "1_month_41-45": false,
+    "1_month_41-45_number_providers": 0,
+    "1_month_41-45_number_reviews": 0,
+    "1_month_46-50": false,
+    "1_month_46-50_number_providers": 0,
+    "1_month_46-50_number_reviews": 0,
+    "1_month_51+": false,
+    "1_month_51+_number_providers": 0,
+    "1_month_51+_number_reviews": 0,
+    "1_month_?": false,
+    "1_month_?_number_providers": 0,
+    "1_month_?_number_reviews": 0,
+    "1_month_number_providers": 15,
+    "1_month_number_reviews": 33,
+    "1_year": true,
+    "1_year_18-24": true,
+    "1_year_18-24_number_providers": 21,
+    "1_year_18-24_number_reviews": 31,
+    "1_year_25-30": true,
+    "1_year_25-30_number_providers": 44,
+    "1_year_25-30_number_reviews": 106,
+    "1_year_31-35": true,
+    "1_year_31-35_number_providers": 21,
+    "1_year_31-35_number_reviews": 42,
+    "1_year_36-40": true,
+    "1_year_36-40_number_providers": 11,
+    "1_year_36-40_number_reviews": 14,
+    "1_year_41-45": false,
+    "1_year_41-45_number_providers": 0,
+    "1_year_41-45_number_reviews": 0,
+    "1_year_46-50": false,
+    "1_year_46-50_number_providers": 0,
+    "1_year_46-50_number_reviews": 0,
+    "1_year_51+": false,
+    "1_year_51+_number_providers": 0,
+    "1_year_51+_number_reviews": 0,
+    "1_year_?": true,
+    "1_year_?_number_providers": 1,
+    "1_year_?_number_reviews": 1,
+    "1_year_number_providers": 59,
+    "1_year_number_reviews": 194,
+    "30_min": "$50",
+    "3_month": true,
+    "3_month_18-24": true,
+    "3_month_18-24_number_providers": 7,
+    "3_month_18-24_number_reviews": 12,
+    "3_month_25-30": true,
+    "3_month_25-30_number_providers": 18,
+    "3_month_25-30_number_reviews": 34,
+    "3_month_31-35": true,
+    "3_month_31-35_number_providers": 10,
+    "3_month_31-35_number_reviews": 15,
+    "3_month_36-40": true,
+    "3_month_36-40_number_providers": 6,
+    "3_month_36-40_number_reviews": 8,
+    "3_month_41-45": false,
+    "3_month_41-45_number_providers": 0,
+    "3_month_41-45_number_reviews": 0,
+    "3_month_46-50": false,
+    "3_month_46-50_number_providers": 0,
+    "3_month_46-50_number_reviews": 0,
+    "3_month_51+": false,
+    "3_month_51+_number_providers": 0,
+    "3_month_51+_number_reviews": 0,
+    "3_month_?": false,
+    "3_month_?_number_providers": 0,
+    "3_month_?_number_reviews": 0,
+    "3_month_number_providers": 26,
+    "3_month_number_reviews": 69,
+    "45_min": null,
+    "60_min": "$70",
+    "6_month": true,
+    "6_month_18-24": true,
+    "6_month_18-24_number_providers": 12,
+    "6_month_18-24_number_reviews": 18,
+    "6_month_25-30": true,
+    "6_month_25-30_number_providers": 27,
+    "6_month_25-30_number_reviews": 55,
+    "6_month_31-35": true,
+    "6_month_31-35_number_providers": 12,
+    "6_month_31-35_number_reviews": 30,
+    "6_month_36-40": true,
+    "6_month_36-40_number_providers": 8,
+    "6_month_36-40_number_reviews": 11,
+    "6_month_41-45": false,
+    "6_month_41-45_number_providers": 0,
+    "6_month_41-45_number_reviews": 0,
+    "6_month_46-50": false,
+    "6_month_46-50_number_providers": 0,
+    "6_month_46-50_number_reviews": 0,
+    "6_month_51+": false,
+    "6_month_51+_number_providers": 0,
+    "6_month_51+_number_reviews": 0,
+    "6_month_?": false,
+    "6_month_?_number_providers": 0,
+    "6_month_?_number_reviews": 0,
+    "6_month_number_providers": 40,
+    "6_month_number_reviews": 114,
+    "90_min": null,
+    "address": "9855 Erma Rd #132",
+    "address_2": "San Diego, CA, 92131",
+    "all_time": true,
+    "all_time_18-24": true,
+    "all_time_18-24_number_providers": 29,
+    "all_time_18-24_number_reviews": 44,
+    "all_time_25-30": true,
+    "all_time_25-30_number_providers": 69,
+    "all_time_25-30_number_reviews": 208,
+    "all_time_31-35": true,
+    "all_time_31-35_number_providers": 35,
+    "all_time_31-35_number_reviews": 73,
+    "all_time_36-40": true,
+    "all_time_36-40_number_providers": 23,
+    "all_time_36-40_number_reviews": 40,
+    "all_time_41-45": true,
+    "all_time_41-45_number_providers": 2,
+    "all_time_41-45_number_reviews": 2,
+    "all_time_46-50": true,
+    "all_time_46-50_number_providers": 1,
+    "all_time_46-50_number_reviews": 1,
+    "all_time_51+": true,
+    "all_time_51+_number_providers": 1,
+    "all_time_51+_number_reviews": 1,
+    "all_time_?": true,
+    "all_time_?_number_providers": 1,
+    "all_time_?_number_reviews": 1,
+    "all_time_number_providers": 88,
+    "all_time_number_reviews": 370,
+    "cards_accepted:": "Cash Only",
+    "closed": null,
+    "email:": null,
+    "hours": "Daily 8:30am - 12:00am",
+    "img_link": "https://cdn.rubmaps.ch/uploads/locations/85225/thumb_5df68dac7a979.jpg",
+    "jacuzzi": "No",
+    "link": "https://www.rubmaps.ch/erotic-massage-erma-spa-san-diego-ca-85225",
+    "loc_link": "https://maps.google.com/maps?&daddr=9855%20Erma%20Rd%20#132,San%20Diego&hl=en",
+    "masseuse_ethnicity:": "Asian",
+    "min_rate": "$ 70",
+    "name": "Erma Spa",
+    "newest_review": "Yesterday",
+    "number": "858-262-4895",
+    "other_info_str": "Masseuse Ethnicity:\nAsian\nCards Accepted:\nCash Only Privacy For Shower: Yes\nSauna: No\nJacuzzi: No\nSemi-Truck Parking: Yes\n30 min: $50\n60 min: $70",
+    "privacy_for_shower": "Yes",
+    "race": "Asian massage",
+    "rate_unit": "per_hour",
+    "reported_as_non_erotic": false,
+    "review": "370 reviews",
+    "review_score": "width: 73.9024px;",
+    "review_score_calculated": 4.6189,
+    "risk_score": 5.815804764671703,
+    "sauna": "No",
+    "semi-truck_parking": "Yes",
+    "table_shower": null,
+    "website:": null,
+    "geocode": [
+      {
+        "address_components": [
+          {
+            "long_name": "132",
+            "short_name": "132",
+            "types": [
+              "subpremise"
+            ]
+          },
+          {
+            "long_name": "9855",
+            "short_name": "9855",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "Erma Road",
+            "short_name": "Erma Rd",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Scripps Ranch",
+            "short_name": "Scripps Ranch",
+            "types": [
+              "neighborhood",
+              "political"
+            ]
+          },
+          {
+            "long_name": "San Diego",
+            "short_name": "San Diego",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "San Diego County",
+            "short_name": "San Diego County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "California",
+            "short_name": "CA",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "92131",
+            "short_name": "92131",
+            "types": [
+              "postal_code"
+            ]
+          },
+          {
+            "long_name": "3001",
+            "short_name": "3001",
+            "types": [
+              "postal_code_suffix"
+            ]
+          }
+        ],
+        "formatted_address": "9855 Erma Rd #132, San Diego, CA 92131, USA",
+        "geometry": {
+          "location": {
+            "lat": 32.9189693,
+            "lng": -117.1144122
+          },
+          "location_type": "ROOFTOP",
+          "viewport": {
+            "northeast": {
+              "lat": 32.9203060802915,
+              "lng": -117.1129135197085
+            },
+            "southwest": {
+              "lat": 32.9176081197085,
+              "lng": -117.1156114802915
+            }
+          }
+        },
+        "place_id": "ChIJnfxzqxD524ARAZ3WTq26XLk",
+        "types": [
+          "subpremise"
+        ]
+      }
+    ],
+    "lat": 32.9189693,
+    "lng": -117.1144122
+  },
+  {
+    "1_month": true,
+    "1_month_18-24": true,
+    "1_month_18-24_number_providers": 4,
+    "1_month_18-24_number_reviews": 8,
+    "1_month_25-30": true,
+    "1_month_25-30_number_providers": 9,
+    "1_month_25-30_number_reviews": 9,
+    "1_month_31-35": true,
+    "1_month_31-35_number_providers": 1,
+    "1_month_31-35_number_reviews": 1,
+    "1_month_36-40": false,
+    "1_month_36-40_number_providers": 0,
+    "1_month_36-40_number_reviews": 0,
+    "1_month_41-45": false,
+    "1_month_41-45_number_providers": 0,
+    "1_month_41-45_number_reviews": 0,
+    "1_month_46-50": false,
+    "1_month_46-50_number_providers": 0,
+    "1_month_46-50_number_reviews": 0,
+    "1_month_51+": false,
+    "1_month_51+_number_providers": 0,
+    "1_month_51+_number_reviews": 0,
+    "1_month_?": false,
+    "1_month_?_number_providers": 0,
+    "1_month_?_number_reviews": 0,
+    "1_month_number_providers": 11,
+    "1_month_number_reviews": 18,
+    "1_year": true,
+    "1_year_18-24": true,
+    "1_year_18-24_number_providers": 14,
+    "1_year_18-24_number_reviews": 55,
+    "1_year_25-30": true,
+    "1_year_25-30_number_providers": 53,
+    "1_year_25-30_number_reviews": 139,
+    "1_year_31-35": true,
+    "1_year_31-35_number_providers": 14,
+    "1_year_31-35_number_reviews": 22,
+    "1_year_36-40": true,
+    "1_year_36-40_number_providers": 2,
+    "1_year_36-40_number_reviews": 3,
+    "1_year_41-45": false,
+    "1_year_41-45_number_providers": 0,
+    "1_year_41-45_number_reviews": 0,
+    "1_year_46-50": false,
+    "1_year_46-50_number_providers": 0,
+    "1_year_46-50_number_reviews": 0,
+    "1_year_51+": false,
+    "1_year_51+_number_providers": 0,
+    "1_year_51+_number_reviews": 0,
+    "1_year_?": true,
+    "1_year_?_number_providers": 1,
+    "1_year_?_number_reviews": 1,
+    "1_year_number_providers": 61,
+    "1_year_number_reviews": 220,
+    "30_min": "$50",
+    "3_month": true,
+    "3_month_18-24": true,
+    "3_month_18-24_number_providers": 4,
+    "3_month_18-24_number_reviews": 8,
+    "3_month_25-30": true,
+    "3_month_25-30_number_providers": 20,
+    "3_month_25-30_number_reviews": 36,
+    "3_month_31-35": true,
+    "3_month_31-35_number_providers": 2,
+    "3_month_31-35_number_reviews": 2,
+    "3_month_36-40": true,
+    "3_month_36-40_number_providers": 1,
+    "3_month_36-40_number_reviews": 1,
+    "3_month_41-45": false,
+    "3_month_41-45_number_providers": 0,
+    "3_month_41-45_number_reviews": 0,
+    "3_month_46-50": false,
+    "3_month_46-50_number_providers": 0,
+    "3_month_46-50_number_reviews": 0,
+    "3_month_51+": false,
+    "3_month_51+_number_providers": 0,
+    "3_month_51+_number_reviews": 0,
+    "3_month_?": false,
+    "3_month_?_number_providers": 0,
+    "3_month_?_number_reviews": 0,
+    "3_month_number_providers": 22,
+    "3_month_number_reviews": 47,
+    "45_min": null,
+    "60_min": "$60",
+    "6_month": true,
+    "6_month_18-24": true,
+    "6_month_18-24_number_providers": 7,
+    "6_month_18-24_number_reviews": 33,
+    "6_month_25-30": true,
+    "6_month_25-30_number_providers": 34,
+    "6_month_25-30_number_reviews": 75,
+    "6_month_31-35": true,
+    "6_month_31-35_number_providers": 3,
+    "6_month_31-35_number_reviews": 3,
+    "6_month_36-40": true,
+    "6_month_36-40_number_providers": 2,
+    "6_month_36-40_number_reviews": 2,
+    "6_month_41-45": false,
+    "6_month_41-45_number_providers": 0,
+    "6_month_41-45_number_reviews": 0,
+    "6_month_46-50": false,
+    "6_month_46-50_number_providers": 0,
+    "6_month_46-50_number_reviews": 0,
+    "6_month_51+": false,
+    "6_month_51+_number_providers": 0,
+    "6_month_51+_number_reviews": 0,
+    "6_month_?": true,
+    "6_month_?_number_providers": 1,
+    "6_month_?_number_reviews": 1,
+    "6_month_number_providers": 39,
+    "6_month_number_reviews": 114,
+    "90_min": null,
+    "address": "8855 Balboa Ave. #H",
+    "address_2": "San Diego, CA, 92123",
+    "all_time": true,
+    "all_time_18-24": true,
+    "all_time_18-24_number_providers": 41,
+    "all_time_18-24_number_reviews": 139,
+    "all_time_25-30": true,
+    "all_time_25-30_number_providers": 88,
+    "all_time_25-30_number_reviews": 305,
+    "all_time_31-35": true,
+    "all_time_31-35_number_providers": 50,
+    "all_time_31-35_number_reviews": 110,
+    "all_time_36-40": true,
+    "all_time_36-40_number_providers": 38,
+    "all_time_36-40_number_reviews": 90,
+    "all_time_41-45": true,
+    "all_time_41-45_number_providers": 15,
+    "all_time_41-45_number_reviews": 28,
+    "all_time_46-50": true,
+    "all_time_46-50_number_providers": 3,
+    "all_time_46-50_number_reviews": 4,
+    "all_time_51+": true,
+    "all_time_51+_number_providers": 1,
+    "all_time_51+_number_reviews": 1,
+    "all_time_?": true,
+    "all_time_?_number_providers": 1,
+    "all_time_?_number_reviews": 1,
+    "all_time_number_providers": 130,
+    "all_time_number_reviews": 678,
+    "cards_accepted:": "Cash Only",
+    "closed": null,
+    "email:": null,
+    "hours": "Daily 8:30am - 11:30pm",
+    "img_link": "https://cdn.rubmaps.ch/uploads/locations/29124/thumb_60c0f8397d01f.jpg",
+    "jacuzzi": "No",
+    "link": "https://www.rubmaps.ch/erotic-massage-smile-spa-san-diego-ca-29124",
+    "loc_link": "https://maps.google.com/maps?&daddr=8855%20Balboa%20Ave.%20#H,San%20Diego&hl=en",
+    "masseuse_ethnicity:": "Asian",
+    "min_rate": "$ 60",
+    "name": "Smile Spa",
+    "newest_review": "2 days ago",
+    "number": "626-632-9756",
+    "other_info_str": "Masseuse Ethnicity:\nAsian\nCards Accepted:\nCash Only Sauna: No\nJacuzzi: No\nSemi-Truck Parking: No\n30 min: $50\n60 min: $60",
+    "privacy_for_shower": null,
+    "race": "Asian massage",
+    "rate_unit": "per_hour",
+    "reported_as_non_erotic": false,
+    "review": "677 reviews",
+    "review_score": "width: 71.208px;",
+    "review_score_calculated": 4.4505,
+    "risk_score": 5.645361224094518,
+    "sauna": "No",
+    "semi-truck_parking": "No",
+    "table_shower": null,
+    "website:": null,
+    "geocode": [
+      {
+        "address_components": [
+          {
+            "long_name": "h",
+            "short_name": "h",
+            "types": [
+              "subpremise"
+            ]
+          },
+          {
+            "long_name": "8855",
+            "short_name": "8855",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "Balboa Avenue",
+            "short_name": "Balboa Ave",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Kearny Mesa",
+            "short_name": "Kearny Mesa",
+            "types": [
+              "neighborhood",
+              "political"
+            ]
+          },
+          {
+            "long_name": "San Diego",
+            "short_name": "San Diego",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "San Diego County",
+            "short_name": "San Diego County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "California",
+            "short_name": "CA",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "92123",
+            "short_name": "92123",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "8855 Balboa Ave h, San Diego, CA 92123, USA",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": 32.8203202,
+              "lng": -117.1378421
+            },
+            "southwest": {
+              "lat": 32.8201402,
+              "lng": -117.1381098
+            }
+          },
+          "location": {
+            "lat": 32.8202182,
+            "lng": -117.1379876
+          },
+          "location_type": "ROOFTOP",
+          "viewport": {
+            "northeast": {
+              "lat": 32.82162843029149,
+              "lng": -117.1366269697085
+            },
+            "southwest": {
+              "lat": 32.8189304697085,
+              "lng": -117.1393249302915
+            }
+          }
+        },
+        "place_id": "Eis4ODU1IEJhbGJvYSBBdmUgaCwgU2FuIERpZWdvLCBDQSA5MjEyMywgVVNBIh0aGwoWChQKEglpGvOmyP_bgBGYroqNkNMqjxIBaA",
+        "types": [
+          "subpremise"
+        ]
+      }
+    ],
+    "lat": 32.8202182,
+    "lng": -117.1379876
+  },
+  {
+    "1_month": true,
+    "1_month_18-24": true,
+    "1_month_18-24_number_providers": 2,
+    "1_month_18-24_number_reviews": 2,
+    "1_month_25-30": true,
+    "1_month_25-30_number_providers": 8,
+    "1_month_25-30_number_reviews": 19,
+    "1_month_31-35": true,
+    "1_month_31-35_number_providers": 1,
+    "1_month_31-35_number_reviews": 1,
+    "1_month_36-40": false,
+    "1_month_36-40_number_providers": 0,
+    "1_month_36-40_number_reviews": 0,
+    "1_month_41-45": false,
+    "1_month_41-45_number_providers": 0,
+    "1_month_41-45_number_reviews": 0,
+    "1_month_46-50": false,
+    "1_month_46-50_number_providers": 0,
+    "1_month_46-50_number_reviews": 0,
+    "1_month_51+": false,
+    "1_month_51+_number_providers": 0,
+    "1_month_51+_number_reviews": 0,
+    "1_month_?": false,
+    "1_month_?_number_providers": 0,
+    "1_month_?_number_reviews": 0,
+    "1_month_number_providers": 9,
+    "1_month_number_reviews": 22,
+    "1_year": true,
+    "1_year_18-24": true,
+    "1_year_18-24_number_providers": 23,
+    "1_year_18-24_number_reviews": 36,
+    "1_year_25-30": true,
+    "1_year_25-30_number_providers": 44,
+    "1_year_25-30_number_reviews": 94,
+    "1_year_31-35": true,
+    "1_year_31-35_number_providers": 10,
+    "1_year_31-35_number_reviews": 18,
+    "1_year_36-40": true,
+    "1_year_36-40_number_providers": 6,
+    "1_year_36-40_number_reviews": 10,
+    "1_year_41-45": true,
+    "1_year_41-45_number_providers": 1,
+    "1_year_41-45_number_reviews": 1,
+    "1_year_46-50": false,
+    "1_year_46-50_number_providers": 0,
+    "1_year_46-50_number_reviews": 0,
+    "1_year_51+": false,
+    "1_year_51+_number_providers": 0,
+    "1_year_51+_number_reviews": 0,
+    "1_year_?": true,
+    "1_year_?_number_providers": 1,
+    "1_year_?_number_reviews": 1,
+    "1_year_number_providers": 61,
+    "1_year_number_reviews": 160,
+    "30_min": "$60",
+    "3_month": true,
+    "3_month_18-24": true,
+    "3_month_18-24_number_providers": 5,
+    "3_month_18-24_number_reviews": 7,
+    "3_month_25-30": true,
+    "3_month_25-30_number_providers": 20,
+    "3_month_25-30_number_reviews": 42,
+    "3_month_31-35": true,
+    "3_month_31-35_number_providers": 5,
+    "3_month_31-35_number_reviews": 6,
+    "3_month_36-40": true,
+    "3_month_36-40_number_providers": 2,
+    "3_month_36-40_number_reviews": 2,
+    "3_month_41-45": true,
+    "3_month_41-45_number_providers": 1,
+    "3_month_41-45_number_reviews": 1,
+    "3_month_46-50": false,
+    "3_month_46-50_number_providers": 0,
+    "3_month_46-50_number_reviews": 0,
+    "3_month_51+": false,
+    "3_month_51+_number_providers": 0,
+    "3_month_51+_number_reviews": 0,
+    "3_month_?": false,
+    "3_month_?_number_providers": 0,
+    "3_month_?_number_reviews": 0,
+    "3_month_number_providers": 23,
+    "3_month_number_reviews": 58,
+    "45_min": null,
+    "60_min": "$80",
+    "6_month": true,
+    "6_month_18-24": true,
+    "6_month_18-24_number_providers": 12,
+    "6_month_18-24_number_reviews": 18,
+    "6_month_25-30": true,
+    "6_month_25-30_number_providers": 32,
+    "6_month_25-30_number_reviews": 73,
+    "6_month_31-35": true,
+    "6_month_31-35_number_providers": 6,
+    "6_month_31-35_number_reviews": 8,
+    "6_month_36-40": true,
+    "6_month_36-40_number_providers": 4,
+    "6_month_36-40_number_reviews": 4,
+    "6_month_41-45": true,
+    "6_month_41-45_number_providers": 1,
+    "6_month_41-45_number_reviews": 1,
+    "6_month_46-50": false,
+    "6_month_46-50_number_providers": 0,
+    "6_month_46-50_number_reviews": 0,
+    "6_month_51+": false,
+    "6_month_51+_number_providers": 0,
+    "6_month_51+_number_reviews": 0,
+    "6_month_?": false,
+    "6_month_?_number_providers": 0,
+    "6_month_?_number_reviews": 0,
+    "6_month_number_providers": 42,
+    "6_month_number_reviews": 104,
+    "90_min": "$140",
+    "address": "10054 Mesa Ridge Ct Ste 102",
+    "address_2": "San Diego, CA, 92111",
+    "all_time": true,
+    "all_time_18-24": true,
+    "all_time_18-24_number_providers": 56,
+    "all_time_18-24_number_reviews": 98,
+    "all_time_25-30": true,
+    "all_time_25-30_number_providers": 98,
+    "all_time_25-30_number_reviews": 259,
+    "all_time_31-35": true,
+    "all_time_31-35_number_providers": 55,
+    "all_time_31-35_number_reviews": 130,
+    "all_time_36-40": true,
+    "all_time_36-40_number_providers": 41,
+    "all_time_36-40_number_reviews": 82,
+    "all_time_41-45": true,
+    "all_time_41-45_number_providers": 7,
+    "all_time_41-45_number_reviews": 8,
+    "all_time_46-50": true,
+    "all_time_46-50_number_providers": 1,
+    "all_time_46-50_number_reviews": 2,
+    "all_time_51+": false,
+    "all_time_51+_number_providers": 0,
+    "all_time_51+_number_reviews": 0,
+    "all_time_?": true,
+    "all_time_?_number_providers": 1,
+    "all_time_?_number_reviews": 1,
+    "all_time_number_providers": 155,
+    "all_time_number_reviews": 580,
+    "cards_accepted:": "Cash Only",
+    "closed": null,
+    "email:": null,
+    "hours": "Daily 9:00am - 11:00pm",
+    "img_link": "https://cdn.rubmaps.ch/uploads/locations/14856/thumb_5994de2131aba.jpg",
+    "jacuzzi": "No",
+    "link": "https://www.rubmaps.ch/erotic-massage-mesa-spa-san-diego-ca-14856",
+    "loc_link": "https://maps.google.com/maps?&daddr=10054%20Mesa%20Ridge%20Ct%20Ste%20102,San%20Diego&hl=en",
+    "masseuse_ethnicity:": "Asian, Chinese",
+    "min_rate": "$ 80",
+    "name": "Mesa Spa",
+    "newest_review": "Yesterday",
+    "number": "858-933-6617",
+    "other_info_str": "Masseuse Ethnicity:\nAsian, Chinese\nCards Accepted:\nCash Only Sauna: No\nJacuzzi: No\nSemi-Truck Parking: No\n30 min: $60\n60 min: $80\n90 min: $140\n\n3 photo(s)",
+    "privacy_for_shower": null,
+    "race": "Asian, Chinese massage",
+    "rate_unit": "per_hour",
+    "reported_as_non_erotic": false,
+    "review": "579 reviews",
+    "review_score": "width: 68.7808px;",
+    "review_score_calculated": 4.2988,
+    "risk_score": 5.5012589579701725,
+    "sauna": "No",
+    "semi-truck_parking": "No",
+    "table_shower": null,
+    "website:": null,
+    "geocode": [
+      {
+        "address_components": [
+          {
+            "long_name": "STE 102",
+            "short_name": "STE 102",
+            "types": [
+              "subpremise"
+            ]
+          },
+          {
+            "long_name": "10054",
+            "short_name": "10054",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "Mesa Ridge Court",
+            "short_name": "Mesa Ridge Ct",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Sorrento Mesa",
+            "short_name": "Sorrento Mesa",
+            "types": [
+              "neighborhood",
+              "political"
+            ]
+          },
+          {
+            "long_name": "San Diego",
+            "short_name": "San Diego",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "San Diego County",
+            "short_name": "San Diego County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "California",
+            "short_name": "CA",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "92121",
+            "short_name": "92121",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "10054 Mesa Ridge Ct STE 102, San Diego, CA 92121, USA",
+        "geometry": {
+          "location": {
+            "lat": 32.900824,
+            "lng": -117.1759402
+          },
+          "location_type": "ROOFTOP",
+          "viewport": {
+            "northeast": {
+              "lat": 32.9021736302915,
+              "lng": -117.1741978197085
+            },
+            "southwest": {
+              "lat": 32.8994756697085,
+              "lng": -117.1768957802915
+            }
+          }
+        },
+        "place_id": "ChIJY2R8XGAH3IAR4lhF7jko5jY",
+        "types": [
+          "subpremise"
+        ]
+      }
+    ],
+    "lat": 32.900824,
+    "lng": -117.1759402
+  },
+  {
+    "1_month": true,
+    "1_month_18-24": true,
+    "1_month_18-24_number_providers": 2,
+    "1_month_18-24_number_reviews": 2,
+    "1_month_25-30": true,
+    "1_month_25-30_number_providers": 8,
+    "1_month_25-30_number_reviews": 16,
+    "1_month_31-35": true,
+    "1_month_31-35_number_providers": 1,
+    "1_month_31-35_number_reviews": 1,
+    "1_month_36-40": false,
+    "1_month_36-40_number_providers": 0,
+    "1_month_36-40_number_reviews": 0,
+    "1_month_41-45": false,
+    "1_month_41-45_number_providers": 0,
+    "1_month_41-45_number_reviews": 0,
+    "1_month_46-50": false,
+    "1_month_46-50_number_providers": 0,
+    "1_month_46-50_number_reviews": 0,
+    "1_month_51+": false,
+    "1_month_51+_number_providers": 0,
+    "1_month_51+_number_reviews": 0,
+    "1_month_?": false,
+    "1_month_?_number_providers": 0,
+    "1_month_?_number_reviews": 0,
+    "1_month_number_providers": 8,
+    "1_month_number_reviews": 19,
+    "1_year": true,
+    "1_year_18-24": true,
+    "1_year_18-24_number_providers": 7,
+    "1_year_18-24_number_reviews": 9,
+    "1_year_25-30": true,
+    "1_year_25-30_number_providers": 53,
+    "1_year_25-30_number_reviews": 179,
+    "1_year_31-35": true,
+    "1_year_31-35_number_providers": 12,
+    "1_year_31-35_number_reviews": 20,
+    "1_year_36-40": true,
+    "1_year_36-40_number_providers": 4,
+    "1_year_36-40_number_reviews": 4,
+    "1_year_41-45": false,
+    "1_year_41-45_number_providers": 0,
+    "1_year_41-45_number_reviews": 0,
+    "1_year_46-50": false,
+    "1_year_46-50_number_providers": 0,
+    "1_year_46-50_number_reviews": 0,
+    "1_year_51+": false,
+    "1_year_51+_number_providers": 0,
+    "1_year_51+_number_reviews": 0,
+    "1_year_?": true,
+    "1_year_?_number_providers": 1,
+    "1_year_?_number_reviews": 1,
+    "1_year_number_providers": 56,
+    "1_year_number_reviews": 213,
+    "30_min": "$50",
+    "3_month": true,
+    "3_month_18-24": true,
+    "3_month_18-24_number_providers": 2,
+    "3_month_18-24_number_reviews": 2,
+    "3_month_25-30": true,
+    "3_month_25-30_number_providers": 15,
+    "3_month_25-30_number_reviews": 43,
+    "3_month_31-35": true,
+    "3_month_31-35_number_providers": 4,
+    "3_month_31-35_number_reviews": 6,
+    "3_month_36-40": true,
+    "3_month_36-40_number_providers": 1,
+    "3_month_36-40_number_reviews": 1,
+    "3_month_41-45": false,
+    "3_month_41-45_number_providers": 0,
+    "3_month_41-45_number_reviews": 0,
+    "3_month_46-50": false,
+    "3_month_46-50_number_providers": 0,
+    "3_month_46-50_number_reviews": 0,
+    "3_month_51+": false,
+    "3_month_51+_number_providers": 0,
+    "3_month_51+_number_reviews": 0,
+    "3_month_?": false,
+    "3_month_?_number_providers": 0,
+    "3_month_?_number_reviews": 0,
+    "3_month_number_providers": 18,
+    "3_month_number_reviews": 52,
+    "45_min": null,
+    "60_min": "$70",
+    "6_month": true,
+    "6_month_18-24": true,
+    "6_month_18-24_number_providers": 6,
+    "6_month_18-24_number_reviews": 7,
+    "6_month_25-30": true,
+    "6_month_25-30_number_providers": 31,
+    "6_month_25-30_number_reviews": 91,
+    "6_month_31-35": true,
+    "6_month_31-35_number_providers": 5,
+    "6_month_31-35_number_reviews": 7,
+    "6_month_36-40": true,
+    "6_month_36-40_number_providers": 1,
+    "6_month_36-40_number_reviews": 1,
+    "6_month_41-45": false,
+    "6_month_41-45_number_providers": 0,
+    "6_month_41-45_number_reviews": 0,
+    "6_month_46-50": false,
+    "6_month_46-50_number_providers": 0,
+    "6_month_46-50_number_reviews": 0,
+    "6_month_51+": false,
+    "6_month_51+_number_providers": 0,
+    "6_month_51+_number_reviews": 0,
+    "6_month_?": false,
+    "6_month_?_number_providers": 0,
+    "6_month_?_number_reviews": 0,
+    "6_month_number_providers": 35,
+    "6_month_number_reviews": 106,
+    "90_min": null,
+    "address": "6370 University Avenue",
+    "address_2": "San Diego, CA, 92115",
+    "all_time": true,
+    "all_time_18-24": true,
+    "all_time_18-24_number_providers": 11,
+    "all_time_18-24_number_reviews": 14,
+    "all_time_25-30": true,
+    "all_time_25-30_number_providers": 92,
+    "all_time_25-30_number_reviews": 447,
+    "all_time_31-35": true,
+    "all_time_31-35_number_providers": 31,
+    "all_time_31-35_number_reviews": 58,
+    "all_time_36-40": true,
+    "all_time_36-40_number_providers": 18,
+    "all_time_36-40_number_reviews": 23,
+    "all_time_41-45": true,
+    "all_time_41-45_number_providers": 1,
+    "all_time_41-45_number_reviews": 1,
+    "all_time_46-50": true,
+    "all_time_46-50_number_providers": 1,
+    "all_time_46-50_number_reviews": 1,
+    "all_time_51+": false,
+    "all_time_51+_number_providers": 0,
+    "all_time_51+_number_reviews": 0,
+    "all_time_?": true,
+    "all_time_?_number_providers": 1,
+    "all_time_?_number_reviews": 1,
+    "all_time_number_providers": 105,
+    "all_time_number_reviews": 545,
+    "cards_accepted:": "Cash Only",
+    "closed": null,
+    "email:": null,
+    "hours": "Daily 9:00am - 11:00pm",
+    "img_link": "https://cdn.rubmaps.ch/uploads/locations/131115/thumb_613fcd948886c.jpg",
+    "jacuzzi": "No",
+    "link": "https://www.rubmaps.ch/erotic-massage-7-spa-san-diego-ca-131115",
+    "loc_link": "https://maps.google.com/maps?&daddr=6370%20University%20Avenue,San%20Diego&hl=en",
+    "masseuse_ethnicity:": "Asian",
+    "min_rate": "$ 70",
+    "name": "7 spa",
+    "newest_review": "Yesterday",
+    "number": "858-308-7760",
+    "other_info_str": "Masseuse Ethnicity:\nAsian\nCards Accepted:\nCash Only Privacy For Shower: Yes\nSauna: No\nJacuzzi: No\nSemi-Truck Parking: No\n30 min: $50\n60 min: $70",
+    "privacy_for_shower": "Yes",
+    "race": "Asian massage",
+    "rate_unit": "per_hour",
+    "reported_as_non_erotic": false,
+    "review": "545 reviews",
+    "review_score": "width: 77.0352px;",
+    "review_score_calculated": 4.8147,
+    "risk_score": 5.251791594034476,
+    "sauna": "No",
+    "semi-truck_parking": "No",
+    "table_shower": null,
+    "website:": null,
+    "geocode": [
+      {
+        "address_components": [
+          {
+            "long_name": "6370",
+            "short_name": "6370",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "University Avenue",
+            "short_name": "University Ave",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Rolando Village",
+            "short_name": "Rolando Village",
+            "types": [
+              "neighborhood",
+              "political"
+            ]
+          },
+          {
+            "long_name": "San Diego",
+            "short_name": "San Diego",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "San Diego County",
+            "short_name": "San Diego County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "California",
+            "short_name": "CA",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "92115",
+            "short_name": "92115",
+            "types": [
+              "postal_code"
+            ]
+          },
+          {
+            "long_name": "5813",
+            "short_name": "5813",
+            "types": [
+              "postal_code_suffix"
+            ]
+          }
+        ],
+        "formatted_address": "6370 University Ave, San Diego, CA 92115, USA",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": 32.7549203,
+              "lng": -117.0584505
+            },
+            "southwest": {
+              "lat": 32.7548016,
+              "lng": -117.0586495
+            }
+          },
+          "location": {
+            "lat": 32.7548697,
+            "lng": -117.0585217
+          },
+          "location_type": "ROOFTOP",
+          "viewport": {
+            "northeast": {
+              "lat": 32.7561477302915,
+              "lng": -117.0572010197085
+            },
+            "southwest": {
+              "lat": 32.7534497697085,
+              "lng": -117.0598989802915
+            }
+          }
+        },
+        "place_id": "ChIJuYm_KL9W2YARej7qVBeRiQE",
+        "types": [
+          "premise"
+        ]
+      }
+    ],
+    "lat": 32.7548697,
+    "lng": -117.0585217
+  },
+  {
+    "1_month": true,
+    "1_month_18-24": true,
+    "1_month_18-24_number_providers": 6,
+    "1_month_18-24_number_reviews": 13,
+    "1_month_25-30": true,
+    "1_month_25-30_number_providers": 6,
+    "1_month_25-30_number_reviews": 6,
+    "1_month_31-35": false,
+    "1_month_31-35_number_providers": 0,
+    "1_month_31-35_number_reviews": 0,
+    "1_month_36-40": true,
+    "1_month_36-40_number_providers": 2,
+    "1_month_36-40_number_reviews": 3,
+    "1_month_41-45": false,
+    "1_month_41-45_number_providers": 0,
+    "1_month_41-45_number_reviews": 0,
+    "1_month_46-50": false,
+    "1_month_46-50_number_providers": 0,
+    "1_month_46-50_number_reviews": 0,
+    "1_month_51+": false,
+    "1_month_51+_number_providers": 0,
+    "1_month_51+_number_reviews": 0,
+    "1_month_?": false,
+    "1_month_?_number_providers": 0,
+    "1_month_?_number_reviews": 0,
+    "1_month_number_providers": 9,
+    "1_month_number_reviews": 22,
+    "1_year": true,
+    "1_year_18-24": true,
+    "1_year_18-24_number_providers": 17,
+    "1_year_18-24_number_reviews": 28,
+    "1_year_25-30": true,
+    "1_year_25-30_number_providers": 32,
+    "1_year_25-30_number_reviews": 48,
+    "1_year_31-35": true,
+    "1_year_31-35_number_providers": 10,
+    "1_year_31-35_number_reviews": 18,
+    "1_year_36-40": true,
+    "1_year_36-40_number_providers": 10,
+    "1_year_36-40_number_reviews": 15,
+    "1_year_41-45": false,
+    "1_year_41-45_number_providers": 0,
+    "1_year_41-45_number_reviews": 0,
+    "1_year_46-50": false,
+    "1_year_46-50_number_providers": 0,
+    "1_year_46-50_number_reviews": 0,
+    "1_year_51+": false,
+    "1_year_51+_number_providers": 0,
+    "1_year_51+_number_reviews": 0,
+    "1_year_?": false,
+    "1_year_?_number_providers": 0,
+    "1_year_?_number_reviews": 0,
+    "1_year_number_providers": 45,
+    "1_year_number_reviews": 109,
+    "30_min": "$60",
+    "3_month": true,
+    "3_month_18-24": true,
+    "3_month_18-24_number_providers": 6,
+    "3_month_18-24_number_reviews": 13,
+    "3_month_25-30": true,
+    "3_month_25-30_number_providers": 13,
+    "3_month_25-30_number_reviews": 19,
+    "3_month_31-35": true,
+    "3_month_31-35_number_providers": 4,
+    "3_month_31-35_number_reviews": 6,
+    "3_month_36-40": true,
+    "3_month_36-40_number_providers": 6,
+    "3_month_36-40_number_reviews": 9,
+    "3_month_41-45": false,
+    "3_month_41-45_number_providers": 0,
+    "3_month_41-45_number_reviews": 0,
+    "3_month_46-50": false,
+    "3_month_46-50_number_providers": 0,
+    "3_month_46-50_number_reviews": 0,
+    "3_month_51+": false,
+    "3_month_51+_number_providers": 0,
+    "3_month_51+_number_reviews": 0,
+    "3_month_?": false,
+    "3_month_?_number_providers": 0,
+    "3_month_?_number_reviews": 0,
+    "3_month_number_providers": 18,
+    "3_month_number_reviews": 47,
+    "45_min": null,
+    "60_min": "$80",
+    "6_month": true,
+    "6_month_18-24": true,
+    "6_month_18-24_number_providers": 11,
+    "6_month_18-24_number_reviews": 20,
+    "6_month_25-30": true,
+    "6_month_25-30_number_providers": 23,
+    "6_month_25-30_number_reviews": 38,
+    "6_month_31-35": true,
+    "6_month_31-35_number_providers": 8,
+    "6_month_31-35_number_reviews": 11,
+    "6_month_36-40": true,
+    "6_month_36-40_number_providers": 7,
+    "6_month_36-40_number_reviews": 11,
+    "6_month_41-45": false,
+    "6_month_41-45_number_providers": 0,
+    "6_month_41-45_number_reviews": 0,
+    "6_month_46-50": false,
+    "6_month_46-50_number_providers": 0,
+    "6_month_46-50_number_reviews": 0,
+    "6_month_51+": false,
+    "6_month_51+_number_providers": 0,
+    "6_month_51+_number_reviews": 0,
+    "6_month_?": false,
+    "6_month_?_number_providers": 0,
+    "6_month_?_number_reviews": 0,
+    "6_month_number_providers": 30,
+    "6_month_number_reviews": 80,
+    "90_min": null,
+    "address": "7677 Ronson Rd. #110",
+    "address_2": "San Diego, CA, 92111",
+    "all_time": true,
+    "all_time_18-24": true,
+    "all_time_18-24_number_providers": 30,
+    "all_time_18-24_number_reviews": 63,
+    "all_time_25-30": true,
+    "all_time_25-30_number_providers": 51,
+    "all_time_25-30_number_reviews": 91,
+    "all_time_31-35": true,
+    "all_time_31-35_number_providers": 21,
+    "all_time_31-35_number_reviews": 35,
+    "all_time_36-40": true,
+    "all_time_36-40_number_providers": 14,
+    "all_time_36-40_number_reviews": 20,
+    "all_time_41-45": false,
+    "all_time_41-45_number_providers": 0,
+    "all_time_41-45_number_reviews": 0,
+    "all_time_46-50": false,
+    "all_time_46-50_number_providers": 0,
+    "all_time_46-50_number_reviews": 0,
+    "all_time_51+": false,
+    "all_time_51+_number_providers": 0,
+    "all_time_51+_number_reviews": 0,
+    "all_time_?": false,
+    "all_time_?_number_providers": 0,
+    "all_time_?_number_reviews": 0,
+    "all_time_number_providers": 75,
+    "all_time_number_reviews": 209,
+    "cards_accepted:": "Cash Only",
+    "closed": null,
+    "email:": null,
+    "hours": "Daily 9:00am - 10:00pm",
+    "img_link": "https://cdn.rubmaps.ch/uploads/locations/127955/thumb_611720c4c4d89.jpg",
+    "jacuzzi": "No",
+    "link": "https://www.rubmaps.ch/erotic-massage-gu-studio-massage-san-diego-ca-127955",
+    "loc_link": "https://maps.google.com/maps?&daddr=7677%20Ronson%20Rd.%20#110,San%20Diego&hl=en",
+    "masseuse_ethnicity:": "Asian, Chinese",
+    "min_rate": "$ 80",
+    "name": "Gu Studio Massage",
+    "newest_review": "Yesterday",
+    "number": "858-898-1988",
+    "other_info_str": "Masseuse Ethnicity:\nAsian, Chinese\nCards Accepted:\nCash Only Privacy For Shower: Yes\nSauna: No\nJacuzzi: No\nSemi-Truck Parking: No\n30 min: $60\n60 min: $80",
+    "privacy_for_shower": "Yes",
+    "race": "Asian, Chinese massage",
+    "rate_unit": "per_hour",
+    "reported_as_non_erotic": false,
+    "review": "209 reviews",
+    "review_score": "width: 74.9472px;",
+    "review_score_calculated": 4.6842,
+    "risk_score": 4.173348828200659,
+    "sauna": "No",
+    "semi-truck_parking": "No",
+    "table_shower": null,
+    "website:": null,
+    "geocode": [
+      {
+        "address_components": [
+          {
+            "long_name": "#110",
+            "short_name": "#110",
+            "types": [
+              "subpremise"
+            ]
+          },
+          {
+            "long_name": "7677",
+            "short_name": "7677",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "Ronson Road",
+            "short_name": "Ronson Rd",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Kearny Mesa",
+            "short_name": "Kearny Mesa",
+            "types": [
+              "neighborhood",
+              "political"
+            ]
+          },
+          {
+            "long_name": "San Diego",
+            "short_name": "San Diego",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "San Diego County",
+            "short_name": "San Diego County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "California",
+            "short_name": "CA",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "92111",
+            "short_name": "92111",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "7677 Ronson Rd #110, San Diego, CA 92111, USA",
+        "geometry": {
+          "location": {
+            "lat": 32.8286352,
+            "lng": -117.1547351
+          },
+          "location_type": "ROOFTOP",
+          "viewport": {
+            "northeast": {
+              "lat": 32.8301812802915,
+              "lng": -117.1534621697085
+            },
+            "southwest": {
+              "lat": 32.8274833197085,
+              "lng": -117.1561601302915
+            }
+          }
+        },
+        "place_id": "ChIJAQDEIJf_24ARosH33x2ikHw",
+        "types": [
+          "subpremise"
+        ]
+      }
+    ],
+    "lat": 32.8286352,
+    "lng": -117.1547351
+  },
+  {
+    "1_month": true,
+    "1_month_18-24": true,
+    "1_month_18-24_number_providers": 1,
+    "1_month_18-24_number_reviews": 1,
+    "1_month_25-30": false,
+    "1_month_25-30_number_providers": 0,
+    "1_month_25-30_number_reviews": 0,
+    "1_month_31-35": true,
+    "1_month_31-35_number_providers": 4,
+    "1_month_31-35_number_reviews": 9,
+    "1_month_36-40": true,
+    "1_month_36-40_number_providers": 1,
+    "1_month_36-40_number_reviews": 1,
+    "1_month_41-45": false,
+    "1_month_41-45_number_providers": 0,
+    "1_month_41-45_number_reviews": 0,
+    "1_month_46-50": false,
+    "1_month_46-50_number_providers": 0,
+    "1_month_46-50_number_reviews": 0,
+    "1_month_51+": false,
+    "1_month_51+_number_providers": 0,
+    "1_month_51+_number_reviews": 0,
+    "1_month_?": false,
+    "1_month_?_number_providers": 0,
+    "1_month_?_number_reviews": 0,
+    "1_month_number_providers": 5,
+    "1_month_number_reviews": 11,
+    "1_year": true,
+    "1_year_18-24": true,
+    "1_year_18-24_number_providers": 1,
+    "1_year_18-24_number_reviews": 1,
+    "1_year_25-30": true,
+    "1_year_25-30_number_providers": 12,
+    "1_year_25-30_number_reviews": 37,
+    "1_year_31-35": true,
+    "1_year_31-35_number_providers": 32,
+    "1_year_31-35_number_reviews": 97,
+    "1_year_36-40": true,
+    "1_year_36-40_number_providers": 15,
+    "1_year_36-40_number_reviews": 49,
+    "1_year_41-45": true,
+    "1_year_41-45_number_providers": 1,
+    "1_year_41-45_number_reviews": 1,
+    "1_year_46-50": false,
+    "1_year_46-50_number_providers": 0,
+    "1_year_46-50_number_reviews": 0,
+    "1_year_51+": false,
+    "1_year_51+_number_providers": 0,
+    "1_year_51+_number_reviews": 0,
+    "1_year_?": true,
+    "1_year_?_number_providers": 1,
+    "1_year_?_number_reviews": 1,
+    "1_year_number_providers": 41,
+    "1_year_number_reviews": 186,
+    "30_min": "$50",
+    "3_month": true,
+    "3_month_18-24": true,
+    "3_month_18-24_number_providers": 1,
+    "3_month_18-24_number_reviews": 1,
+    "3_month_25-30": true,
+    "3_month_25-30_number_providers": 3,
+    "3_month_25-30_number_reviews": 3,
+    "3_month_31-35": true,
+    "3_month_31-35_number_providers": 11,
+    "3_month_31-35_number_reviews": 19,
+    "3_month_36-40": true,
+    "3_month_36-40_number_providers": 4,
+    "3_month_36-40_number_reviews": 4,
+    "3_month_41-45": false,
+    "3_month_41-45_number_providers": 0,
+    "3_month_41-45_number_reviews": 0,
+    "3_month_46-50": false,
+    "3_month_46-50_number_providers": 0,
+    "3_month_46-50_number_reviews": 0,
+    "3_month_51+": false,
+    "3_month_51+_number_providers": 0,
+    "3_month_51+_number_reviews": 0,
+    "3_month_?": false,
+    "3_month_?_number_providers": 0,
+    "3_month_?_number_reviews": 0,
+    "3_month_number_providers": 14,
+    "3_month_number_reviews": 27,
+    "45_min": "$60",
+    "60_min": "$70",
+    "6_month": true,
+    "6_month_18-24": true,
+    "6_month_18-24_number_providers": 1,
+    "6_month_18-24_number_reviews": 1,
+    "6_month_25-30": true,
+    "6_month_25-30_number_providers": 6,
+    "6_month_25-30_number_reviews": 8,
+    "6_month_31-35": true,
+    "6_month_31-35_number_providers": 17,
+    "6_month_31-35_number_reviews": 29,
+    "6_month_36-40": true,
+    "6_month_36-40_number_providers": 5,
+    "6_month_36-40_number_reviews": 6,
+    "6_month_41-45": true,
+    "6_month_41-45_number_providers": 1,
+    "6_month_41-45_number_reviews": 1,
+    "6_month_46-50": false,
+    "6_month_46-50_number_providers": 0,
+    "6_month_46-50_number_reviews": 0,
+    "6_month_51+": false,
+    "6_month_51+_number_providers": 0,
+    "6_month_51+_number_reviews": 0,
+    "6_month_?": false,
+    "6_month_?_number_providers": 0,
+    "6_month_?_number_reviews": 0,
+    "6_month_number_providers": 21,
+    "6_month_number_reviews": 45,
+    "90_min": null,
+    "address": "5995 Mission Gorge Rd, Suite B",
+    "address_2": "San Diego, CA, 92120",
+    "all_time": true,
+    "all_time_18-24": true,
+    "all_time_18-24_number_providers": 2,
+    "all_time_18-24_number_reviews": 2,
+    "all_time_25-30": true,
+    "all_time_25-30_number_providers": 26,
+    "all_time_25-30_number_reviews": 93,
+    "all_time_31-35": true,
+    "all_time_31-35_number_providers": 52,
+    "all_time_31-35_number_reviews": 273,
+    "all_time_36-40": true,
+    "all_time_36-40_number_providers": 37,
+    "all_time_36-40_number_reviews": 129,
+    "all_time_41-45": true,
+    "all_time_41-45_number_providers": 3,
+    "all_time_41-45_number_reviews": 3,
+    "all_time_46-50": true,
+    "all_time_46-50_number_providers": 1,
+    "all_time_46-50_number_reviews": 1,
+    "all_time_51+": false,
+    "all_time_51+_number_providers": 0,
+    "all_time_51+_number_reviews": 0,
+    "all_time_?": true,
+    "all_time_?_number_providers": 4,
+    "all_time_?_number_reviews": 4,
+    "all_time_number_providers": 72,
+    "all_time_number_reviews": 505,
+    "cards_accepted:": "Visa, Mastercard, Cash Only",
+    "closed": null,
+    "email:": null,
+    "hours": "Daily 9:00am - 11:00pm",
+    "img_link": "https://cdn.rubmaps.ch/uploads/locations/18556/thumb_5f0768a4b13f8.jpg",
+    "jacuzzi": "No",
+    "link": "https://www.rubmaps.ch/erotic-massage-jw-spa-san-diego-ca-18556",
+    "loc_link": "https://maps.google.com/maps?&daddr=5995%20Mission%20Gorge%20Rd,%20Suite%20B,San%20Diego&hl=en",
+    "masseuse_ethnicity:": "Asian, Latina",
+    "min_rate": "$ 70",
+    "name": "JW SPA",
+    "newest_review": "6 days ago",
+    "number": "619-578-9313",
+    "other_info_str": "Masseuse Ethnicity:\nAsian, Latina\nWebsite:\njwspaca.com\nCards Accepted:\nVisa, Mastercard, Cash Only Table Shower: Yes\nSauna: No\nJacuzzi: No\nSemi-Truck Parking: No\n30 min: $50\n45 min: $60\n60 min: $70",
+    "privacy_for_shower": null,
+    "race": "Asian, Latina massage",
+    "rate_unit": "per_hour",
+    "reported_as_non_erotic": false,
+    "review": "504 reviews",
+    "review_score": "width: 70.1264px;",
+    "review_score_calculated": 4.3829,
+    "risk_score": 3.9114855704048033,
+    "sauna": "No",
+    "semi-truck_parking": "No",
+    "table_shower": "Yes",
+    "website:": "jwspaca.com",
+    "geocode": [
+      {
+        "address_components": [
+          {
+            "long_name": "b",
+            "short_name": "b",
+            "types": [
+              "subpremise"
+            ]
+          },
+          {
+            "long_name": "5995",
+            "short_name": "5995",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "Mission Gorge Road",
+            "short_name": "Mission Gorge Rd",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Grantville",
+            "short_name": "Grantville",
+            "types": [
+              "neighborhood",
+              "political"
+            ]
+          },
+          {
+            "long_name": "San Diego",
+            "short_name": "San Diego",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "San Diego County",
+            "short_name": "San Diego County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "California",
+            "short_name": "CA",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "92120",
+            "short_name": "92120",
+            "types": [
+              "postal_code"
+            ]
+          },
+          {
+            "long_name": "4028",
+            "short_name": "4028",
+            "types": [
+              "postal_code_suffix"
+            ]
+          }
+        ],
+        "formatted_address": "5995 Mission Gorge Rd b, San Diego, CA 92120, USA",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": 32.7829213,
+              "lng": -117.0981221
+            },
+            "southwest": {
+              "lat": 32.7826388,
+              "lng": -117.098464
+            }
+          },
+          "location": {
+            "lat": 32.7827356,
+            "lng": -117.0983007
+          },
+          "location_type": "ROOFTOP",
+          "viewport": {
+            "northeast": {
+              "lat": 32.7841660302915,
+              "lng": -117.0969993697085
+            },
+            "southwest": {
+              "lat": 32.7814680697085,
+              "lng": -117.0996973302915
+            }
+          }
+        },
+        "place_id": "EjE1OTk1IE1pc3Npb24gR29yZ2UgUmQgYiwgU2FuIERpZWdvLCBDQSA5MjEyMCwgVVNBIh0aGwoWChQKEgmh2_cUxlXZgBFooUXgdreA1hIBYg",
+        "types": [
+          "subpremise"
+        ]
+      }
+    ],
+    "lat": 32.7827356,
+    "lng": -117.0983007
+  },
+  {
+    "1_month": true,
+    "1_month_18-24": false,
+    "1_month_18-24_number_providers": 0,
+    "1_month_18-24_number_reviews": 0,
+    "1_month_25-30": true,
+    "1_month_25-30_number_providers": 9,
+    "1_month_25-30_number_reviews": 18,
+    "1_month_31-35": true,
+    "1_month_31-35_number_providers": 5,
+    "1_month_31-35_number_reviews": 9,
+    "1_month_36-40": true,
+    "1_month_36-40_number_providers": 4,
+    "1_month_36-40_number_reviews": 5,
+    "1_month_41-45": false,
+    "1_month_41-45_number_providers": 0,
+    "1_month_41-45_number_reviews": 0,
+    "1_month_46-50": false,
+    "1_month_46-50_number_providers": 0,
+    "1_month_46-50_number_reviews": 0,
+    "1_month_51+": false,
+    "1_month_51+_number_providers": 0,
+    "1_month_51+_number_reviews": 0,
+    "1_month_?": false,
+    "1_month_?_number_providers": 0,
+    "1_month_?_number_reviews": 0,
+    "1_month_number_providers": 12,
+    "1_month_number_reviews": 32,
+    "1_year": true,
+    "1_year_18-24": true,
+    "1_year_18-24_number_providers": 1,
+    "1_year_18-24_number_reviews": 1,
+    "1_year_25-30": true,
+    "1_year_25-30_number_providers": 13,
+    "1_year_25-30_number_reviews": 24,
+    "1_year_31-35": true,
+    "1_year_31-35_number_providers": 10,
+    "1_year_31-35_number_reviews": 16,
+    "1_year_36-40": true,
+    "1_year_36-40_number_providers": 6,
+    "1_year_36-40_number_reviews": 8,
+    "1_year_41-45": true,
+    "1_year_41-45_number_providers": 1,
+    "1_year_41-45_number_reviews": 1,
+    "1_year_46-50": false,
+    "1_year_46-50_number_providers": 0,
+    "1_year_46-50_number_reviews": 0,
+    "1_year_51+": true,
+    "1_year_51+_number_providers": 1,
+    "1_year_51+_number_reviews": 2,
+    "1_year_?": false,
+    "1_year_?_number_providers": 0,
+    "1_year_?_number_reviews": 0,
+    "1_year_number_providers": 24,
+    "1_year_number_reviews": 52,
+    "30_min": "$50",
+    "3_month": true,
+    "3_month_18-24": true,
+    "3_month_18-24_number_providers": 1,
+    "3_month_18-24_number_reviews": 1,
+    "3_month_25-30": true,
+    "3_month_25-30_number_providers": 13,
+    "3_month_25-30_number_reviews": 24,
+    "3_month_31-35": true,
+    "3_month_31-35_number_providers": 8,
+    "3_month_31-35_number_reviews": 13,
+    "3_month_36-40": true,
+    "3_month_36-40_number_providers": 6,
+    "3_month_36-40_number_reviews": 8,
+    "3_month_41-45": false,
+    "3_month_41-45_number_providers": 0,
+    "3_month_41-45_number_reviews": 0,
+    "3_month_46-50": false,
+    "3_month_46-50_number_providers": 0,
+    "3_month_46-50_number_reviews": 0,
+    "3_month_51+": false,
+    "3_month_51+_number_providers": 0,
+    "3_month_51+_number_reviews": 0,
+    "3_month_?": false,
+    "3_month_?_number_providers": 0,
+    "3_month_?_number_reviews": 0,
+    "3_month_number_providers": 20,
+    "3_month_number_reviews": 46,
+    "45_min": null,
+    "60_min": "$70",
+    "6_month": true,
+    "6_month_18-24": true,
+    "6_month_18-24_number_providers": 1,
+    "6_month_18-24_number_reviews": 1,
+    "6_month_25-30": true,
+    "6_month_25-30_number_providers": 13,
+    "6_month_25-30_number_reviews": 24,
+    "6_month_31-35": true,
+    "6_month_31-35_number_providers": 10,
+    "6_month_31-35_number_reviews": 16,
+    "6_month_36-40": true,
+    "6_month_36-40_number_providers": 6,
+    "6_month_36-40_number_reviews": 8,
+    "6_month_41-45": true,
+    "6_month_41-45_number_providers": 1,
+    "6_month_41-45_number_reviews": 1,
+    "6_month_46-50": false,
+    "6_month_46-50_number_providers": 0,
+    "6_month_46-50_number_reviews": 0,
+    "6_month_51+": false,
+    "6_month_51+_number_providers": 0,
+    "6_month_51+_number_reviews": 0,
+    "6_month_?": false,
+    "6_month_?_number_providers": 0,
+    "6_month_?_number_reviews": 0,
+    "6_month_number_providers": 23,
+    "6_month_number_reviews": 50,
+    "90_min": null,
+    "address": "1181 Morena Blvd",
+    "address_2": "San Diego, CA, 92117",
+    "all_time": true,
+    "all_time_18-24": true,
+    "all_time_18-24_number_providers": 1,
+    "all_time_18-24_number_reviews": 1,
+    "all_time_25-30": true,
+    "all_time_25-30_number_providers": 13,
+    "all_time_25-30_number_reviews": 24,
+    "all_time_31-35": true,
+    "all_time_31-35_number_providers": 10,
+    "all_time_31-35_number_reviews": 16,
+    "all_time_36-40": true,
+    "all_time_36-40_number_providers": 7,
+    "all_time_36-40_number_reviews": 10,
+    "all_time_41-45": true,
+    "all_time_41-45_number_providers": 2,
+    "all_time_41-45_number_reviews": 3,
+    "all_time_46-50": true,
+    "all_time_46-50_number_providers": 1,
+    "all_time_46-50_number_reviews": 1,
+    "all_time_51+": true,
+    "all_time_51+_number_providers": 1,
+    "all_time_51+_number_reviews": 3,
+    "all_time_?": false,
+    "all_time_?_number_providers": 0,
+    "all_time_?_number_reviews": 0,
+    "all_time_number_providers": 25,
+    "all_time_number_reviews": 58,
+    "cards_accepted:": "Cash Only",
+    "closed": null,
+    "email:": null,
+    "hours": "Daily 8:30am - 11:30pm",
+    "img_link": "https://cdn.rubmaps.ch/uploads/locations/172833/thumb_63a4e9b4aab1b.jpg",
+    "jacuzzi": "No",
+    "link": "https://www.rubmaps.ch/erotic-massage-aqua-spa-san-diego-ca-172833",
+    "loc_link": "https://maps.google.com/maps?&daddr=1181%20Morena%20Blvd,San%20Diego&hl=en",
+    "masseuse_ethnicity:": "Chinese",
+    "min_rate": "$ 70",
+    "name": "Aqua spa",
+    "newest_review": "Yesterday",
+    "number": "858-380-8013",
+    "other_info_str": "Masseuse Ethnicity:\nChinese\nCards Accepted:\nCash Only Sauna: No\nJacuzzi: No\nSemi-Truck Parking: No\n30 min: $50\n60 min: $70",
+    "privacy_for_shower": null,
+    "race": "Chinese massage",
+    "rate_unit": "per_hour",
+    "reported_as_non_erotic": false,
+    "review": "58 reviews",
+    "review_score": "width: 73.104px;",
+    "review_score_calculated": 4.569,
+    "risk_score": 3.725547162502421,
+    "sauna": "No",
+    "semi-truck_parking": "No",
+    "table_shower": null,
+    "website:": null,
+    "geocode": [
+      {
+        "address_components": [
+          {
+            "long_name": "1181",
+            "short_name": "1181",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "Morena Boulevard",
+            "short_name": "Morena Blvd",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Morena",
+            "short_name": "Morena",
+            "types": [
+              "neighborhood",
+              "political"
+            ]
+          },
+          {
+            "long_name": "San Diego",
+            "short_name": "San Diego",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "San Diego County",
+            "short_name": "San Diego County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "California",
+            "short_name": "CA",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "92110",
+            "short_name": "92110",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "1181 Morena Blvd, San Diego, CA 92110, USA",
+        "geometry": {
+          "location": {
+            "lat": 32.7697388,
+            "lng": -117.2011119
+          },
+          "location_type": "ROOFTOP",
+          "viewport": {
+            "northeast": {
+              "lat": 32.77100113029149,
+              "lng": -117.1998382197085
+            },
+            "southwest": {
+              "lat": 32.7683031697085,
+              "lng": -117.2025361802915
+            }
+          }
+        },
+        "place_id": "ChIJ1zo17JSq3oARcLynHk8u3GM",
+        "plus_code": {
+          "compound_code": "QQ9X+VH San Diego, CA",
+          "global_code": "8544QQ9X+VH"
+        },
+        "types": [
+          "street_address"
+        ]
+      }
+    ],
+    "lat": 32.7697388,
+    "lng": -117.2011119
+  },
+  {
+    "1_month": true,
+    "1_month_18-24": false,
+    "1_month_18-24_number_providers": 0,
+    "1_month_18-24_number_reviews": 0,
+    "1_month_25-30": true,
+    "1_month_25-30_number_providers": 6,
+    "1_month_25-30_number_reviews": 22,
+    "1_month_31-35": false,
+    "1_month_31-35_number_providers": 0,
+    "1_month_31-35_number_reviews": 0,
+    "1_month_36-40": false,
+    "1_month_36-40_number_providers": 0,
+    "1_month_36-40_number_reviews": 0,
+    "1_month_41-45": false,
+    "1_month_41-45_number_providers": 0,
+    "1_month_41-45_number_reviews": 0,
+    "1_month_46-50": false,
+    "1_month_46-50_number_providers": 0,
+    "1_month_46-50_number_reviews": 0,
+    "1_month_51+": false,
+    "1_month_51+_number_providers": 0,
+    "1_month_51+_number_reviews": 0,
+    "1_month_?": false,
+    "1_month_?_number_providers": 0,
+    "1_month_?_number_reviews": 0,
+    "1_month_number_providers": 6,
+    "1_month_number_reviews": 22,
+    "1_year": true,
+    "1_year_18-24": true,
+    "1_year_18-24_number_providers": 9,
+    "1_year_18-24_number_reviews": 14,
+    "1_year_25-30": true,
+    "1_year_25-30_number_providers": 33,
+    "1_year_25-30_number_reviews": 139,
+    "1_year_31-35": true,
+    "1_year_31-35_number_providers": 4,
+    "1_year_31-35_number_reviews": 4,
+    "1_year_36-40": true,
+    "1_year_36-40_number_providers": 5,
+    "1_year_36-40_number_reviews": 6,
+    "1_year_41-45": true,
+    "1_year_41-45_number_providers": 1,
+    "1_year_41-45_number_reviews": 1,
+    "1_year_46-50": false,
+    "1_year_46-50_number_providers": 0,
+    "1_year_46-50_number_reviews": 0,
+    "1_year_51+": false,
+    "1_year_51+_number_providers": 0,
+    "1_year_51+_number_reviews": 0,
+    "1_year_?": false,
+    "1_year_?_number_providers": 0,
+    "1_year_?_number_reviews": 0,
+    "1_year_number_providers": 36,
+    "1_year_number_reviews": 164,
+    "30_min": "$40",
+    "3_month": true,
+    "3_month_18-24": false,
+    "3_month_18-24_number_providers": 0,
+    "3_month_18-24_number_reviews": 0,
+    "3_month_25-30": true,
+    "3_month_25-30_number_providers": 7,
+    "3_month_25-30_number_reviews": 30,
+    "3_month_31-35": false,
+    "3_month_31-35_number_providers": 0,
+    "3_month_31-35_number_reviews": 0,
+    "3_month_36-40": false,
+    "3_month_36-40_number_providers": 0,
+    "3_month_36-40_number_reviews": 0,
+    "3_month_41-45": false,
+    "3_month_41-45_number_providers": 0,
+    "3_month_41-45_number_reviews": 0,
+    "3_month_46-50": false,
+    "3_month_46-50_number_providers": 0,
+    "3_month_46-50_number_reviews": 0,
+    "3_month_51+": false,
+    "3_month_51+_number_providers": 0,
+    "3_month_51+_number_reviews": 0,
+    "3_month_?": false,
+    "3_month_?_number_providers": 0,
+    "3_month_?_number_reviews": 0,
+    "3_month_number_providers": 7,
+    "3_month_number_reviews": 30,
+    "45_min": null,
+    "60_min": "$60",
+    "6_month": true,
+    "6_month_18-24": true,
+    "6_month_18-24_number_providers": 5,
+    "6_month_18-24_number_reviews": 9,
+    "6_month_25-30": true,
+    "6_month_25-30_number_providers": 15,
+    "6_month_25-30_number_reviews": 61,
+    "6_month_31-35": true,
+    "6_month_31-35_number_providers": 4,
+    "6_month_31-35_number_reviews": 4,
+    "6_month_36-40": true,
+    "6_month_36-40_number_providers": 2,
+    "6_month_36-40_number_reviews": 3,
+    "6_month_41-45": false,
+    "6_month_41-45_number_providers": 0,
+    "6_month_41-45_number_reviews": 0,
+    "6_month_46-50": false,
+    "6_month_46-50_number_providers": 0,
+    "6_month_46-50_number_reviews": 0,
+    "6_month_51+": false,
+    "6_month_51+_number_providers": 0,
+    "6_month_51+_number_reviews": 0,
+    "6_month_?": false,
+    "6_month_?_number_providers": 0,
+    "6_month_?_number_reviews": 0,
+    "6_month_number_providers": 17,
+    "6_month_number_reviews": 77,
+    "90_min": null,
+    "address": "6779 El Cajon Blvd",
+    "address_2": "San Diego, CA, 92115",
+    "all_time": true,
+    "all_time_18-24": true,
+    "all_time_18-24_number_providers": 10,
+    "all_time_18-24_number_reviews": 15,
+    "all_time_25-30": true,
+    "all_time_25-30_number_providers": 34,
+    "all_time_25-30_number_reviews": 140,
+    "all_time_31-35": true,
+    "all_time_31-35_number_providers": 5,
+    "all_time_31-35_number_reviews": 5,
+    "all_time_36-40": true,
+    "all_time_36-40_number_providers": 5,
+    "all_time_36-40_number_reviews": 6,
+    "all_time_41-45": true,
+    "all_time_41-45_number_providers": 1,
+    "all_time_41-45_number_reviews": 1,
+    "all_time_46-50": false,
+    "all_time_46-50_number_providers": 0,
+    "all_time_46-50_number_reviews": 0,
+    "all_time_51+": false,
+    "all_time_51+_number_providers": 0,
+    "all_time_51+_number_reviews": 0,
+    "all_time_?": false,
+    "all_time_?_number_providers": 0,
+    "all_time_?_number_reviews": 0,
+    "all_time_number_providers": 38,
+    "all_time_number_reviews": 167,
+    "cards_accepted:": "Mastercard, Cash Only",
+    "closed": null,
+    "email:": null,
+    "hours": "Daily 9:00am - 11:30pm",
+    "img_link": "https://cdn.rubmaps.ch/uploads/locations/179937/thumb_63f3ff01d43ba.jpg",
+    "jacuzzi": "No",
+    "link": "https://www.rubmaps.ch/erotic-massage-star-spa-san-diego-ca-179937",
+    "loc_link": "https://maps.google.com/maps?&daddr=6779%20El%20Cajon%20Blvd,San%20Diego&hl=en",
+    "masseuse_ethnicity:": "Asian, Chinese",
+    "min_rate": "$ 60",
+    "name": "STAR SPA",
+    "newest_review": "Yesterday",
+    "number": "858-308-2292",
+    "other_info_str": "Masseuse Ethnicity:\nAsian, Chinese\nCards Accepted:\nMastercard, Cash Only Sauna: No\nJacuzzi: No\nSemi-Truck Parking: Yes\n30 min: $40\n60 min: $60",
+    "privacy_for_shower": null,
+    "race": "Asian, Chinese massage",
+    "rate_unit": "per_hour",
+    "reported_as_non_erotic": false,
+    "review": "166 reviews",
+    "review_score": "width: 73.832px;",
+    "review_score_calculated": 4.6145,
+    "risk_score": 3.672864613596746,
+    "sauna": "No",
+    "semi-truck_parking": "Yes",
+    "table_shower": null,
+    "website:": null,
+    "geocode": [
+      {
+        "address_components": [
+          {
+            "long_name": "6779",
+            "short_name": "6779",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "El Cajon Boulevard",
+            "short_name": "El Cajon Blvd",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Rolando Village",
+            "short_name": "Rolando Village",
+            "types": [
+              "neighborhood",
+              "political"
+            ]
+          },
+          {
+            "long_name": "San Diego",
+            "short_name": "San Diego",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "San Diego County",
+            "short_name": "San Diego County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "California",
+            "short_name": "CA",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "92115",
+            "short_name": "92115",
+            "types": [
+              "postal_code"
+            ]
+          },
+          {
+            "long_name": "1621",
+            "short_name": "1621",
+            "types": [
+              "postal_code_suffix"
+            ]
+          }
+        ],
+        "formatted_address": "6779 El Cajon Blvd, San Diego, CA 92115, USA",
+        "geometry": {
+          "location": {
+            "lat": 32.7684363,
+            "lng": -117.0520205
+          },
+          "location_type": "ROOFTOP",
+          "viewport": {
+            "northeast": {
+              "lat": 32.76978348029149,
+              "lng": -117.0507332697085
+            },
+            "southwest": {
+              "lat": 32.76708551970849,
+              "lng": -117.0534312302915
+            }
+          }
+        },
+        "place_id": "ChIJ-anzTuxW2YARG9jOdRNP9lY",
+        "plus_code": {
+          "compound_code": "QW9X+95 San Diego, CA",
+          "global_code": "8544QW9X+95"
+        },
+        "types": [
+          "street_address"
+        ]
+      }
+    ],
+    "lat": 32.7684363,
+    "lng": -117.0520205
+  }
+]
